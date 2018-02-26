@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpFont", "SharpFont\SharpFont.csproj", "{ECD55E3B-1139-4F0D-AF63-3F471AAF6E91}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpFont.Gdi", "SharpFont.GDI\SharpFont.Gdi.csproj", "{76010B43-076E-4AC8-A71D-C161E83AC981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,12 @@ Global
 		{ECD55E3B-1139-4F0D-AF63-3F471AAF6E91}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ECD55E3B-1139-4F0D-AF63-3F471AAF6E91}.ReleaseNET20|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD55E3B-1139-4F0D-AF63-3F471AAF6E91}.ReleaseNET20|Any CPU.Build.0 = Release|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.ReleaseNET20|Any CPU.ActiveCfg = Release|Any CPU
+		{76010B43-076E-4AC8-A71D-C161E83AC981}.ReleaseNET20|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
